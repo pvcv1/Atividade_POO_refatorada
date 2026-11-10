@@ -1,0 +1,13 @@
+{
+  "name": "atividade_poo",
+  "version": "1.0.0",
+  "description": "Atividade de POO - refatoração com DAO e SQLite",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^13.0.3"
+  }
+}
